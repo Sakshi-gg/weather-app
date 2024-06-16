@@ -1,6 +1,6 @@
 # Weather App
 
-A weather application built with JavaScript, HTML, and CSS, utilizing public APIs to display real-time weather data. Features include current weather conditions, a 5-day forecast, and location-based updates. This project showcases front-end development, API integration, and responsive design skills.
+A weather application built with JavaScript, HTML, and CSS, utilizing public APIs to display real-time weather data. Features include current weather conditions and location-based updates. This project showcases front-end development, API integration, and responsive design skills.
 
 ## Features
 
